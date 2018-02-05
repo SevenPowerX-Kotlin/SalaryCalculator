@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SalaryCalculator</string>
+    <string name="app_name_ru">Калькулятор Зарплат</string>
+    <string name="app_name_en">Salary Calculator</string>
 </resources>
